@@ -1,0 +1,39 @@
+[{
+        "username": "nandymandy1",
+        "first_name": "Narendra",
+        "last_name": "Maurya",
+        "age": 23,
+        "city": "Lucknow",
+        "contact": "+91-6360535414",
+        "backend_tech": ["Node.js", "Dart", "PHP", "Laravel", "Django", "Flask", "Python"],
+        "frontend_tech": ["Angular Cli", "Vue.js", "Flutter", "JQuery", "Bootstrap", "Materialize Css"]
+    }, {
+        "username": "tmaurya",
+        "first_name": "Tanya",
+        "last_name": "Maurya",
+        "age": 18,
+        "city": "Lucknow",
+        "contact": "+91-6360535277",
+        "backend_tech": ["Django", "Flask", "Python"],
+        "frontend_tech": ["Vue.js", "JQuery", "Bootstrap", "Materialize Css"]
+    }, {
+        "username": "vishnukir1",
+        "first_name": "Vishnu",
+        "last_name": "Kiran",
+        "age": 26,
+        "city": "Bangalore",
+        "contact": "+91-7273345414",
+        "backend_tech": ["Django", "Flask", "Python"],
+        "frontend_tech": ["Angular Cli", "React", "React Native", "JQuery", "Bootstrap", "Materialize Css"]
+    },
+    {
+        "username": "pmaurya",
+        "first_name": "Praveen",
+        "last_name": "Maurya",
+        "age": 21,
+        "city": "Lucknow",
+        "contact": "+91-2776535414",
+        "backend_tech": [],
+        "frontend_tech": ["Angular Cli", "Adboe Photoshop", "Vue.js", "Flutter", "JQuery", "Bootstrap", "Materialize Css"]
+    }
+]
